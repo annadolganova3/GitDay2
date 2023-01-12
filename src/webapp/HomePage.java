@@ -9,4 +9,6 @@ public class HomePage {
     //logo
 
     //new
+
+    //logo
 }
